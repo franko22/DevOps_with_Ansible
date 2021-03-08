@@ -1,7 +1,6 @@
 # Hands-On DevOps with Ansible
 
-This code repository contains examples from the video course Hands-On
-DevOps with Ansible by Alan Hohn, published by Packt Publishing.
+This code repository contains DevOps with Ansible and K8's
 
 ## Prerequisites
 
